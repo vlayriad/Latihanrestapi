@@ -1,0 +1,13 @@
+{
+  "name": "nodejs_restapi_postman",
+  "version": "1.0.0",
+  "description": "Belajar Node JS Rest Api Post Man",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Satria Arya Respati",
+  "license": "ISC"
+}
